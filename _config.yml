@@ -13,7 +13,7 @@ timezone: ''
 email: liuliuliu@email.cn
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://github.com/Xiaoliu-Study/Xiaoliu-Study.github.io/
+url: https://github.com/Xiaoliu-Study/Xiaoliu-Study.github.io
 root: /Xiaoliu-Study.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
